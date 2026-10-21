@@ -1,0 +1,15 @@
+HOW TO RUN (Windows)
+1. Unzip this folder. Keep ALL files together.
+2. Open Command Prompt / PowerShell INSIDE this folder:
+      cd path\to\Project_2
+3. Install packages:
+      python -m pip install -r requirements.txt
+4. Run the app:
+      python -m streamlit run app.py
+   (or just double-click run_app.bat)
+5. Notebook:
+      python -m jupyter notebook PR2_Robust_Regression.ipynb
+   Then: Kernel > Restart & Run All
+
+If streamlit command is not found, always use:  python -m streamlit run app.py
+If model.pkl fails to load (version mismatch), the app re-trains automatically.
