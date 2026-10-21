@@ -229,7 +229,7 @@ python -m jupyter notebook PR2_Robust_Regression.ipynb
  
 | Resource | Link |
 |---|---|
-| 🚀 Live Streamlit App | _add your URL_ |
+| 🚀 Live Streamlit App |[ _add your URL_](http://localhost:8501/) |
 | 🎥 Video Explanation | _add your Google Drive / YouTube (unlisted) link_ |
  
 ## 👤 Author
